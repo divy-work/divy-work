@@ -1,4 +1,4 @@
-![](./assets/divy.png)
+![](assets/divy.png)
 
 ### Hey nerds 👋
 
