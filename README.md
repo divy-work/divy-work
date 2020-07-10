@@ -1,4 +1,4 @@
-![](assets/divy.png)
+![](https://github.com/divy-work/divy-work/raw/master/assets/divy.png)
 
 ### Hey nerds 👋
 
