@@ -1,3 +1,4 @@
+![](./assets/divy.png)
 
 ### Hi there 👋
 
