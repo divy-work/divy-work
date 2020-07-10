@@ -1,6 +1,6 @@
 ![](./assets/divy.png)
 
-### Hi there 👋
+### Hey nerds 👋
 
 - 🔭 I’m currently working on [nest.land](https://github.com/nestdotland/nest.land)
 
