@@ -11,6 +11,12 @@
 
 - ⚡ Fun fact: I play guitar, listen to music, enjoy meeting new people, kinda introvert.
 
+### 🗄 My projects:
+
+```
+<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+```
+
 ### 🗣 My activity:
 
 ```
