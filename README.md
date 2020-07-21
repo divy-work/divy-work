@@ -11,6 +11,15 @@
 
 - ⚡ Fun fact: I play guitar, listen to music, enjoy meeting new people, kinda introvert.
 
+### 🗄 My projects:
+
+```
+📦 dan-divy/spruce: ⭐️ 337
+📦 divy-work/autopilot-deno: ⭐️ 279
+📦 dan-online/spring.js: ⭐️ 10
+📦 divy-work/arcadia: ⭐️ 10
+```
+
 ### 🗣 My activity:
 
 ```
@@ -26,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, July 21st 2020, 12:00:13 pm UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, July 21st 2020, 12:09:40 pm UTC</b></p>
