@@ -14,10 +14,10 @@
 ### 🗄 My projects:
 
 ```
-📦 dan-divy/spruce: ⭐️ 337
-📦 divy-work/autopilot-deno: ⭐️ 279
-📦 dan-online/spring.js: ⭐️ 10
-📦 divy-work/arcadia: ⭐️ 10
+⭐️ 337 📦 dan-divy/spruce
+⭐️ 279 📦 divy-work/autopilot-deno
+⭐️ 10  📦 dan-online/spring.js
+⭐️ 10  📦 divy-work/arcadia
 ```
 
 ### 🗣 My activity:
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, July 21st 2020, 5:48:15 pm UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, July 21st 2020, 6:48:26 pm UTC</b></p>
