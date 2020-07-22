@@ -25,8 +25,8 @@
 ```
 ⬆️ Pushed 1 commit to nestdotland/deno_swc
 ⬆️ Pushed 1 commit to nestdotland/deno_swc
-🎉 Merged PR #14 in nestdotland/deno_swc
 ⬆️ Pushed 1 commit to nestdotland/deno_swc
+🎉 Merged PR #14 in nestdotland/deno_swc
 ⬆️ Pushed 1 commit to nestdotland/deno_swc
 ```
 
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, July 22nd 2020, 10:48:00 am UTC</b></p>
+<p align="center">Last refresh: <b>Wednesday, July 22nd 2020, 11:47:59 am UTC</b></p>
