@@ -14,7 +14,7 @@
 ### 🗄 My projects:
 
 ```
-⭐️ 339 📦 dan-divy/spruce
+⭐️ 338 📦 dan-divy/spruce
 ⭐️ 282 📦 divy-work/autopilot-deno
 ⭐️ 10  📦 dan-online/spring.js
 ⭐️ 10  📦 divy-work/arcadia
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Sunday, July 26th 2020, 6:48:07 am UTC</b></p>
+<p align="center">Last refresh: <b>Sunday, July 26th 2020, 7:48:05 am UTC</b></p>
