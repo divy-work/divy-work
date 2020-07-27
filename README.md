@@ -15,7 +15,7 @@
 
 ```
 ⭐️ 340 📦 dan-divy/spruce
-⭐️ 282 📦 divy-work/autopilot-deno
+⭐️ 281 📦 divy-work/autopilot-deno
 ⭐️ 10  📦 dan-online/spring.js
 ⭐️ 10  📦 divy-work/arcadia
 ```
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Monday, July 27th 2020, 1:47:54 pm UTC</b></p>
+<p align="center">Last refresh: <b>Monday, July 27th 2020, 2:48:04 pm UTC</b></p>
