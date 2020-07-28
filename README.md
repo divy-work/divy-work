@@ -26,8 +26,8 @@
 ⬆️ Pushed 1 commit to divy-work/deno
 ⬆️ Pushed 1 commit to divy-work/deno
 ⬆️ Pushed 1 commit to divy-work/deno
-⬆️ Pushed 1 commit to divy-work/divy-work
-⬆️ Pushed 1 commit to divy-work/divy-work
+⬆️ Pushed 1 commit to divy-work/deno
+⬆️ Pushed 1 commit to divy-work/deno
 ```
 
 ### Join Discord
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, July 28th 2020, 7:32:17 am UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, July 28th 2020, 8:32:04 am UTC</b></p>
