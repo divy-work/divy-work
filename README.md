@@ -23,11 +23,11 @@
 ### 🗣 My activity:
 
 ```
-🗣 Commented on #6890 in denoland/deno
-⬆️ Pushed 1 commit to nestdotland/deno_swc
-🎉 Merged PR #20 in nestdotland/deno_swc
-❗️ Closed issue #11 in nestdotland/deno_swc
-⬆️ Pushed 1 commit to divy-work/deno
+🎉 Merged PR #5 in nestdotland/analyzer
+⬆️ Pushed 1 commit to nestdotland/analyzer
+❗️ Closed issue #243 in nestdotland/nest.land
+🗣 Commented on #243 in nestdotland/nest.land
+⬆️ Pushed 1 commit to nestdotland/analyzer
 ```
 
 ### Join Discord
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Thursday, July 30th 2020, 10:32:22 am UTC</b></p>
+<p align="center">Last refresh: <b>Thursday, July 30th 2020, 11:32:02 am UTC</b></p>
