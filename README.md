@@ -24,10 +24,10 @@
 
 ```
 ⬆️ Pushed 1 commit to divy-work/deno
+⬆️ Pushed 1 commit to divy-work/deno
 💪 Opened PR #6934 in denoland/deno
 ❗️ Closed issue #1 in nestdotland/api
 ⬆️ Pushed 1 commit to nestdotland/nest.land
-⬆️ Pushed 2 commits to nestdotland/yolk
 ```
 
 ### Join Discord
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Saturday, August 1st 2020, 1:32:03 pm UTC</b></p>
+<p align="center">Last refresh: <b>Saturday, August 1st 2020, 2:32:00 pm UTC</b></p>
