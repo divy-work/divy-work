@@ -23,11 +23,11 @@
 ### 🗣 My activity:
 
 ```
+⬆️ Pushed 4 commits to nestdotland/yolk
+🎉 Merged PR #4 in nestdotland/yolk
 ⬆️ Pushed 1 commit to nestdotland/eggs
 💪 Opened PR #52 in nestdotland/eggs
 ⬆️ Pushed 1 commit to nestdotland/yolk
-⬆️ Pushed 5 commits to nestdotland/api
-🎉 Merged PR #41 in nestdotland/api
 ```
 
 ### Join Discord
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Sunday, August 2nd 2020, 1:32:10 pm UTC</b></p>
+<p align="center">Last refresh: <b>Sunday, August 2nd 2020, 2:32:07 pm UTC</b></p>
