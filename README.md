@@ -23,11 +23,11 @@
 ### 🗣 My activity:
 
 ```
-💪 Opened PR #14 in nestdotland/docs
-⬆️ Pushed 1 commit to nestdotland/docs
-⬆️ Pushed 1 commit to nestdotland/docs
-⬆️ Pushed 1 commit to nestdotland/docs
-⬆️ Pushed 34 commits to divy-work/deno
+⬆️ Pushed 1 commit to nestdotland/api
+⬆️ Pushed 1 commit to nestdotland/api
+⬆️ Pushed 1 commit to nestdotland/api
+⬆️ Pushed 1 commit to nestdotland/api
+⬆️ Pushed 1 commit to nestdotland/api
 ```
 
 ### Join Discord
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Thursday, August 6th 2020, 8:31:58 am UTC</b></p>
+<p align="center">Last refresh: <b>Thursday, August 6th 2020, 9:32:22 am UTC</b></p>
