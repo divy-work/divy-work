@@ -23,11 +23,11 @@
 ### 🗣 My activity:
 
 ```
+⬆️ Pushed 2 commits to nestdotland/yolk
+⬆️ Pushed 1 commit to nestdotland/eggs
 🍴 Forked divy-work/vue-markdown from miaolz123/vue-markdown
 🗣 Commented on #52 in nestdotland/eggs
 ⬆️ Pushed 3 commits to nestdotland/api
-🎉 Merged PR #54 in nestdotland/api
-⬆️ Pushed 2 commits to nestdotland/api
 ```
 
 ### Join Discord
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Saturday, August 15th 2020, 11:32:10 am UTC</b></p>
+<p align="center">Last refresh: <b>Saturday, August 15th 2020, 12:32:13 pm UTC</b></p>
