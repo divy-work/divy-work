@@ -24,10 +24,10 @@
 
 ```
 ⬆️ Pushed 1 commit to nestdotland/analyzer
+⬆️ Pushed 1 commit to nestdotland/analyzer
 💪 Opened PR #12 in nestdotland/analyzer
 ⬆️ Pushed 1 commit to nestdotland/analyzer
 ⬆️ Pushed 1 commit to nestdotland/analyzer
-❌ Closed PR #10 in nestdotland/analyzer
 ```
 
 ### Join Discord
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Sunday, August 16th 2020, 9:32:11 am UTC</b></p>
+<p align="center">Last refresh: <b>Sunday, August 16th 2020, 10:32:10 am UTC</b></p>
