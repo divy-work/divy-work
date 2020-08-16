@@ -18,15 +18,15 @@
 | 📦 | 350 | [dan-divy/spruce](https://github.com/dan-divy/spruce) | A social networking platform made using Node.js and MongoDB |
 | 📦 | 284 | [divy-work/autopilot-deno](https://github.com/divy-work/autopilot-deno) | :rocket: Cross-platform desktop automation library for Deno. |
 | 📦 | 11 | [divy-work/arcadia](https://github.com/divy-work/arcadia) | Arcadia. Probably an open source chat platform? :rocket: |
-| 📦 | 10 | [dan-online/spring.js](https://github.com/dan-online/spring.js) | Spring.js, the best way to start an optimised nodejs/express server with optional mongodb 🍃🌲 |
+| 📦 | 11 | [divy-work/deno_sass](https://github.com/divy-work/deno_sass) | :rocket: Cute Sass compiler bindings to Deno. |
 
 ### 🗣 My activity:
 
 ```
+❌ Closed PR #10 in nestdotland/analyzer
+🗣 Commented on #10 in nestdotland/analyzer
 ⬆️ Pushed 10 commits to nestdotland/analyzer
 🎉 Merged PR #11 in nestdotland/analyzer
-⬆️ Pushed 1 commit to nestdotland/analyzer
-⬆️ Pushed 1 commit to nestdotland/analyzer
 ⬆️ Pushed 1 commit to nestdotland/analyzer
 ```
 
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Sunday, August 16th 2020, 7:32:09 am UTC</b></p>
+<p align="center">Last refresh: <b>Sunday, August 16th 2020, 8:32:06 am UTC</b></p>
