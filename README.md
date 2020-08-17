@@ -26,8 +26,8 @@
 ⬆️ Pushed 1 commit to useverto/verto
 ⬆️ Pushed 1 commit to useverto/verto
 ⬆️ Pushed 1 commit to useverto/verto
+⬆️ Pushed 1 commit to useverto/verto
 💪 Opened PR #25 in useverto/verto
-⬆️ Pushed 3 commits to useverto/verto
 ```
 
 ### Join Discord
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Monday, August 17th 2020, 12:32:03 pm UTC</b></p>
+<p align="center">Last refresh: <b>Monday, August 17th 2020, 1:34:00 pm UTC</b></p>
