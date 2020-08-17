@@ -16,18 +16,18 @@
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 350 | [dan-divy/spruce](https://github.com/dan-divy/spruce) | A social networking platform made using Node.js and MongoDB |
-| 📦 | 284 | [divy-work/autopilot-deno](https://github.com/divy-work/autopilot-deno) | :rocket: Cross-platform desktop automation library for Deno. |
+| 📦 | 285 | [divy-work/autopilot-deno](https://github.com/divy-work/autopilot-deno) | :rocket: Cross-platform desktop automation library for Deno. |
 | 📦 | 11 | [divy-work/arcadia](https://github.com/divy-work/arcadia) | Arcadia. Probably an open source chat platform? :rocket: |
 | 📦 | 11 | [divy-work/deno_sass](https://github.com/divy-work/deno_sass) | :rocket: Cute Sass compiler bindings to Deno. |
 
 ### 🗣 My activity:
 
 ```
+⬆️ Pushed 2 commits to useverto/verto
+⬆️ Pushed 1 commit to useverto/verto
+⬆️ Pushed 1 commit to useverto/verto
 ⬆️ Pushed 1 commit to useverto/trading-post
 📦 Released "Initial Release v0.0.1" in nestdotland/analyzer
-⬆️ Pushed 1 commit to nestdotland/analyzer
-⬆️ Pushed 1 commit to nestdotland/analyzer
-⬆️ Pushed 1 commit to divy-work/arcadia
 ```
 
 ### Join Discord
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Monday, August 17th 2020, 8:32:07 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, August 17th 2020, 9:32:24 am UTC</b></p>
