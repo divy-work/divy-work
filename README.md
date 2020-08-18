@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, August 18th 2020, 1:32:14 pm UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, August 18th 2020, 2:32:02 pm UTC</b></p>
