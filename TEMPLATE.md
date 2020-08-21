@@ -21,9 +21,5 @@
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 ```
 
-### Join Discord
-
-[![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
-
 ------------
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b></p>
