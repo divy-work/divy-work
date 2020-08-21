@@ -15,8 +15,8 @@
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 350 | [dan-divy/spruce](https://github.com/dan-divy/spruce) | A social networking platform made using Node.js and MongoDB |
-| 📦 | 286 | [divy-work/autopilot-deno](https://github.com/divy-work/autopilot-deno) | :rocket: Cross-platform desktop automation library for Deno. |
+| 📦 | 351 | [dan-divy/spruce](https://github.com/dan-divy/spruce) | A social networking platform made using Node.js and MongoDB |
+| 📦 | 287 | [divy-work/autopilot-deno](https://github.com/divy-work/autopilot-deno) | :rocket: Cross-platform desktop automation library for Deno. |
 | 📦 | 11 | [divy-work/arcadia](https://github.com/divy-work/arcadia) | Arcadia. Probably an open source chat platform? :rocket: |
 | 📦 | 11 | [divy-work/deno_sass](https://github.com/divy-work/deno_sass) | :rocket: Cute Sass compiler bindings to Deno. |
 
@@ -35,4 +35,4 @@
 [![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
 
 ------------
-<p align="center">Last refresh: <b>Friday, August 21st 2020, 1:32:16 am UTC</b></p>
+<p align="center">Last refresh: <b>Friday, August 21st 2020, 2:31:54 am UTC</b></p>
