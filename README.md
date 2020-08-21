@@ -23,16 +23,12 @@
 ### 🗣 My activity:
 
 ```
+⬆️ Pushed 1 commit to divy-work/divy-work
+❌ Closed PR #6893 in denoland/deno
 ❗️ Opened issue #23 in nestdotland/analyzer
 🗣 Commented on #22 in nestdotland/analyzer
 🗣 Commented on #58 in nestdotland/eggs
-❗️ Opened issue #3 in denosaurs/mod.land
-❗️ Opened issue #22 in nestdotland/analyzer
 ```
 
-### Join Discord
-
-[![](https://discordapp.com/api/guilds/715564894904123424/widget.png?style=banner2)](https://discord.gg/uqywa4W)
-
 ------------
-<p align="center">Last refresh: <b>Friday, August 21st 2020, 12:32:03 pm UTC</b></p>
+<p align="center">Last refresh: <b>Friday, August 21st 2020, 1:20:12 pm UTC</b></p>
