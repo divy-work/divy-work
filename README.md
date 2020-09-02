@@ -14,12 +14,12 @@
 ### 🗣 My activity:
 
 ```
-❗️ Closed issue #31 in divy-work/autopilot-deno
-🗣 Commented on #31 in divy-work/autopilot-deno
-⬆️ Pushed 1 commit to divy-work/autopilot-deno
-⬆️ Pushed 4 commits to divy-work/autopilot-deno
-🎉 Merged PR #32 in divy-work/autopilot-deno
+⬆️ Pushed 3 commits to useverto/trading-post-v2
+🎉 Merged PR #18 in useverto/trading-post-v2
+⬆️ Pushed 1 commit to useverto/trading-post-v2
+💪 Opened PR #18 in useverto/trading-post-v2
+⬆️ Pushed 2 commits to useverto/trading-post-v2
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, September 2nd 2020, 3:32:30 pm UTC</b></p>
+<p align="center">Last refresh: <b>Wednesday, September 2nd 2020, 4:32:12 pm UTC</b></p>
