@@ -14,12 +14,12 @@
 ### 🗣 My activity:
 
 ```
+⬆️ Pushed 1 commit to useverto/trading-post
 ⬆️ Pushed 1 commit to nestdotland/analyzer
 ⬆️ Pushed 1 commit to nestdotland/analyzer
 ⬆️ Pushed 16 commits to nestdotland/yolk
 🎉 Merged PR #6 in nestdotland/yolk
-⬆️ Pushed 2 commits to nestdotland/api
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, September 5th 2020, 9:47:26 am UTC</b></p>
+<p align="center">Last refresh: <b>Saturday, September 5th 2020, 10:45:27 am UTC</b></p>
