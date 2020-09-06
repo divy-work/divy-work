@@ -14,12 +14,12 @@
 ### 🗣 My activity:
 
 ```
-💪 Opened PR #57 in useverto/verto
-⬆️ Pushed 1 commit to useverto/verto
-⬆️ Pushed 9 commits to useverto/trading-post
-⬆️ Pushed 6 commits to useverto/trading-post
-🎉 Merged PR #30 in useverto/trading-post
+⬆️ Pushed 1 commit to useverto/trading-post
+⬆️ Pushed 1 commit to useverto/trading-post
+⬆️ Pushed 2 commits to useverto/trading-post
+💪 Opened PR #31 in useverto/trading-post
+⬆️ Pushed 3 commits to useverto/trading-post
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, September 6th 2020, 3:32:15 pm UTC</b></p>
+<p align="center">Last refresh: <b>Sunday, September 6th 2020, 4:32:23 pm UTC</b></p>
