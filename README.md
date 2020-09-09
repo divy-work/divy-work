@@ -14,12 +14,12 @@
 ### 🗣 My activity:
 
 ```
+⬆️ Pushed 1 commit to useverto/trading-post
 🗣 Commented on #67 in nestdotland/eggs
 🗣 Commented on #67 in nestdotland/eggs
 ❗️ Opened issue #68 in nestdotland/eggs
 ⬆️ Pushed 1 commit to useverto/verto
-⬆️ Pushed 2 commits to useverto/verto
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, September 9th 2020, 7:32:21 am UTC</b></p>
+<p align="center">Last refresh: <b>Wednesday, September 9th 2020, 8:32:23 am UTC</b></p>
