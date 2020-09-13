@@ -14,12 +14,12 @@
 ### 🗣 My activity:
 
 ```
+⬆️ Pushed 5 commits to useverto/desktop
+🎉 Merged PR #6 in useverto/desktop
+❌ Reopened PR #6 in useverto/desktop
+❌ Closed PR #6 in useverto/desktop
 ⬆️ Pushed 1 commit to useverto/desktop
-⬆️ Pushed 2 commits to useverto/desktop
-⬆️ Pushed 2 commits to useverto/desktop
-🎉 Merged PR #7 in useverto/desktop
-💪 Opened PR #6 in useverto/desktop
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, September 13th 2020, 1:32:38 am UTC</b></p>
+<p align="center">Last refresh: <b>Sunday, September 13th 2020, 2:32:22 am UTC</b></p>
