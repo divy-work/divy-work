@@ -14,7 +14,7 @@
 ### 🗣 My activity:
 
 ```
-⬆️ Pushed 1 commit to useverto/desktop
+❌ Closed PR #2 in useverto/desktop
 ⬆️ Pushed 1 commit to useverto/desktop
 ⬆️ Pushed 1 commit to useverto/desktop
 ⬆️ Pushed 1 commit to useverto/desktop
@@ -22,4 +22,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, September 14th 2020, 4:32:59 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, September 14th 2020, 5:32:26 am UTC</b></p>
