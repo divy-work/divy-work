@@ -16,10 +16,10 @@
 ```
 ⬆️ Pushed 1 commit to useverto/desktop
 ⬆️ Pushed 1 commit to useverto/desktop
-❌ Closed PR #2 in useverto/desktop
 ⬆️ Pushed 1 commit to useverto/desktop
+💪 Opened PR #9 in useverto/desktop
 ⬆️ Pushed 1 commit to useverto/desktop
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, September 14th 2020, 1:32:25 pm UTC</b></p>
+<p align="center">Last refresh: <b>Monday, September 14th 2020, 2:32:30 pm UTC</b></p>
