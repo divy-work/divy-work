@@ -15,11 +15,11 @@
 
 ```
 ⬆️ Pushed 1 commit to elsaland/elsa
+🎉 Merged PR #20 in elsaland/elsa
+⬆️ Pushed 1 commit to elsaland/elsa
 ⬆️ Pushed 2 commits to elsaland/elsa
 💪 Opened PR #19 in elsaland/elsa
-⬆️ Pushed 2 commits to elsaland/elsa
-❗️ Opened issue #18 in elsaland/elsa
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, September 25th 2020, 1:35:37 am UTC</b></p>
+<p align="center">Last refresh: <b>Friday, September 25th 2020, 2:32:28 am UTC</b></p>
