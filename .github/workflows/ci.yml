@@ -21,7 +21,7 @@ jobs:
       uses: actions-js/profile-readme@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        username: divy-work
+        username: littledivy
         template: "TEMPLATE.md"
 
       
@@ -29,5 +29,5 @@ jobs:
       uses: actions-js/push@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        coauthor_email: divy-work@users.noreply.github.com
-        coauthor_name: divy-work
+        coauthor_email: littledivy@users.noreply.github.com
+        coauthor_name: littledivy
