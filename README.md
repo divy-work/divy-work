@@ -14,12 +14,12 @@
 ### 🗣 My activity:
 
 ```
+⬆️ Pushed 1 commit to elsaland/elsa
+🎉 Merged PR #68 in elsaland/elsa
 🗣 Commented on #71 in elsaland/elsa
 ⬆️ Pushed 1 commit to elsaland/elsa
 🎉 Merged PR #74 in elsaland/elsa
-💪 Opened PR #74 in elsaland/elsa
-⬆️ Pushed 1 commit to elsaland/elsa
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, October 6th 2020, 2:32:21 am UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, October 6th 2020, 3:32:38 am UTC</b></p>
