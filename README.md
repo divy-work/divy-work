@@ -14,12 +14,12 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #96 in elsaland/elsa
+⬆️ Pushed 1 commit to elsaland/elsa
 🍴 Forked littledivy/mac-notification-sys from h4llow3En/mac-notification-sys
 🗣 Commented on #94 in elsaland/elsa
 ⬆️ Pushed 1 commit to elsaland/elsa
-🎉 Merged PR #95 in elsaland/elsa
-❌ Closed PR #71 in elsaland/elsa
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, October 8th 2020, 4:35:00 pm UTC</b></p>
+<p align="center">Last refresh: <b>Thursday, October 8th 2020, 5:32:43 pm UTC</b></p>
