@@ -14,12 +14,12 @@
 ### 🗣 My activity:
 
 ```
+⬆️ Pushed 1 commit to littledivy/spidermonkey
+⬆️ Pushed 1 commit to littledivy/spidermonkey
 ⬆️ Pushed 2 commits to littledivy/deno
 ⬆️ Pushed 1 commit to elsaland/elsa
 🎉 Merged PR #101 in elsaland/elsa
-⬆️ Pushed 3 commits to littledivy/deno
-⬆️ Pushed 2 commits to littledivy/deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, October 12th 2020, 9:34:14 am UTC</b></p>
+<p align="center">Last refresh: <b>Monday, October 12th 2020, 10:33:32 am UTC</b></p>
