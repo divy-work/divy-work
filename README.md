@@ -14,12 +14,12 @@
 ### 🗣 My activity:
 
 ```
+❌ Closed PR #43 in useverto/trading-post
+🗣 Commented on #43 in useverto/trading-post
 ❗️ Opened issue #51 in useverto/trading-post
 ⬆️ Pushed 1 commit to useverto/lib
 ⬆️ Pushed 1 commit to useverto/lib
-💪 Opened PR #3 in johnletey/cacheweave
-💪 Opened PR #2 in johnletey/cacheweave
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, October 16th 2020, 9:34:48 am UTC</b></p>
+<p align="center">Last refresh: <b>Friday, October 16th 2020, 10:34:12 am UTC</b></p>
