@@ -14,12 +14,12 @@
 ### 🗣 My activity:
 
 ```
+⬆️ Pushed 3 commits to nestdotland/api
+🎉 Merged PR #58 in nestdotland/api
 💪 Opened PR #24 in nestdotland/deno_swc
 ❌ Closed PR #3 in nestdotland/x
 ⬆️ Pushed 4 commits to nestdotland/x
-⬆️ Pushed 3 commits to nestdotland/x
-💪 Opened PR #3 in nestdotland/x
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, October 26th 2020, 4:47:18 pm UTC</b></p>
+<p align="center">Last refresh: <b>Monday, October 26th 2020, 5:34:44 pm UTC</b></p>
