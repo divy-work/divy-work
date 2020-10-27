@@ -14,12 +14,12 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.1.0" in littledivy/css-parser
+⬆️ Pushed 1 commit to littledivy/css-parser
 ⬆️ Pushed 3 commits to nestdotland/api
 🎉 Merged PR #58 in nestdotland/api
 💪 Opened PR #24 in nestdotland/deno_swc
-❌ Closed PR #3 in nestdotland/x
-⬆️ Pushed 4 commits to nestdotland/x
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, October 27th 2020, 4:49:44 pm UTC</b></p>
+<p align="center">Last refresh: <b>Tuesday, October 27th 2020, 5:35:06 pm UTC</b></p>
