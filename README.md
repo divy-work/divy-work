@@ -14,12 +14,12 @@
 ### 🗣 My activity:
 
 ```
+⬆️ Pushed 1 commit to deno-front-end/css-parser
+📦 Released "0.2.0" in deno-front-end/css-parser
 ❗️ Opened issue #2 in deno-front-end/css-parser
 ⬆️ Pushed 1 commit to deno-front-end/css-parser
 🎉 Merged PR #1 in deno-front-end/css-parser
-⬆️ Pushed 1 commit to nestdotland/deno_swc
-⬆️ Pushed 1 commit to nestdotland/deno_swc
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, October 30th 2020, 7:32:04 am UTC</b></p>
+<p align="center">Last refresh: <b>Friday, October 30th 2020, 8:32:11 am UTC</b></p>
