@@ -14,12 +14,12 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.1.0" in littledivy/pressf
 ⬆️ Pushed 1 commit to littledivy/pressf
 ⬆️ Pushed 1 commit to littledivy/pressf
 ⬆️ Pushed 2 commits to littledivy/pressf
 ⬆️ Pushed 1 commit to littledivy/pressf
-⬆️ Pushed 1 commit to littledivy/pressf
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, December 13th 2020, 11:35:26 am UTC</b></p>
+<p align="center">Last refresh: <b>Sunday, December 13th 2020, 12:47:11 pm UTC</b></p>
